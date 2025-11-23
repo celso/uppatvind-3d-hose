@@ -4,9 +4,9 @@ This repo has the STL and 3MF 3D files for an Ikea UPPÅTVIND custom hose adapte
 
 ![Shapr3D screenshot](purifier.png)
 
-Size has been adjusted to fit the Bambu Lab P1S 256x256x256 mm [maximum build volume](https://wiki.bambulab.com/en/p1/manual/faq).
+The size of the model has been adjusted to fit the Bambu Lab P1S 256x256x256mm [maximum build volume](https://wiki.bambulab.com/en/p1/manual/faq).
 
-You can either print the three parts top, middle and bottom without support and glue them (what I did), or print the full adapter in one shot, with support.
+You can either print the three parts (top, middle and bottom) without support and glue them (what I did), or print the full adapter in one shot, with support.
 
 If you print the parts separately, you can skip the bottom part and glue the other two parts to the original cover instead.
 
