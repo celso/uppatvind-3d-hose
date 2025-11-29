@@ -17,8 +17,6 @@ If you print the parts separately, you can skip the bottom part and glue the oth
 
 You can optionally add a collector to the other hose end:
 
-![Shapr3D screenshot](purifier2.png)
-
 - Hose end [STL][(hose_end.stl), [3MF](hose_end.3mf)
 - Hose end net [STL][(hose_end_net.stl), [3MF](hose_end_net.3mf)
 
